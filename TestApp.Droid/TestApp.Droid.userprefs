@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="..\TestApp.IOS\TestApp.IOS\TestApp.IOS.csproj">
+  <DisabledProjects>
+    <String>..\TestApp.IOS\TestApp.IOS\TestApp.IOS.csproj</String>
+    <String>TestApp.Win\TestApp.Win.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Git Source\TimeTest2\server.js">
+    <Files>
+      <File FileName="TestApp.Droid\MainActivity.cs" Line="43" Column="1" />
+      <File FileName="d:\Projet\Mobile\TestApp.Shared\TestApp.Shared\NodeHelper.cs" Line="118" Column="1" />
+      <File FileName="..\..\..\Git Source\TimeTest2\server.js" Line="181" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="TestApp.Droid" expanded="True" />
+          <Node name="TestApp.Shared" expanded="True">
+            <Node name="NodeHelper.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Projet\Mobile\TestApp.Droid\TestApp.Droid\MainActivity.cs" line="32" column="1" />
+      <Breakpoint file="D:\Projet\Mobile\TestApp.Droid\TestApp.Droid\MainActivity.cs" line="43" column="1" />
+      <Breakpoint file="d:\Projet\Mobile\TestApp.Shared\TestApp.Shared\NodeHelper.cs" line="116" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

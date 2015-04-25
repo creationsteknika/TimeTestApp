@@ -1,0 +1,2 @@
+D:\Projet\Mobile\TimeTestApp\TestApp.Droid\TestApp.Droid\bin\Debug\TestApp.Droid.dll
+D:\Projet\Mobile\TimeTestApp\TestApp.Droid\Components\restsharp-105.0.1.0\lib\android\RestSharp.MonoDroid.dll

@@ -1,0 +1,1 @@
+D:\Projet\Mobile\TestApp.Droid\TestApp.Win\TestApp.Win.csproj;x86
